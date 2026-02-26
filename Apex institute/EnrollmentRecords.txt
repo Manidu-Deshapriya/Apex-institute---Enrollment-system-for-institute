@@ -1,0 +1,159 @@
+Student ID	Full Name	NIC Number	Course Code	GPA	District	Is Enrolled	Date of Birth
+158	Achini Sandamali	200088900900	SE - Software Engineering	3.50	Kegalle	TRUE	2/23/2000
+119	Ajantha Mendis	199299000997	LAW	3.79	Jaffna	TRUE	2/17/1992
+031	Akila Dananjaya	199811200111	SE - Software Engineering	3.48	Colombo	TRUE	2/8/1998
+028	Ama Kanchana	200088900887	LAW	3.68	Kegalle	TRUE	4/29/2000
+096	Amasha Dilshani	200266700672	BM - Business Management	3.11	Kurunegala	TRUE	6/28/2002
+133	Angelo Karunaratne	199133400343	ENG - Engineering	3.73	Galle	TRUE	4/20/1991
+023	Angelo Mathews	199733400332	SE - Software Engineering	2.80	Galle	TRUE	3/24/1997
+109	Angelo Perera	199299000996	ENG - Engineering	3.91	Jaffna	TRUE	6/27/1992
+118	Anisha Silva	200088900896	SE - Software Engineering	2.99	Kegalle	TRUE	5/24/2000
+044	Anjali Perera	200344500445	ENG - Engineering	3.88	Gampaha	TRUE	11/29/2003
+082	Anuki Anjali	200122300227	SE - Software Engineering	3.09	Kandy	TRUE	11/12/2001
+098	Anupama Kumari	200088900894	SE - Software Engineering	2.91	Kegalle	TRUE	8/6/2000
+006	Anusha Priyadharshani	199854300991	BM - Business Management	3.45	Kandy	FALSE	7/29/1998
+047	Asela Gunaratne	199177800778	LAW	2.87	Kalutara	TRUE	4/18/1991
+113	Ashen Bandara	199133400341	ENG - Engineering	3.76	Galle	TRUE	6/5/1991
+121	Avishka Fernando	199911200120	ENG - Engineering	3.53	Colombo	TRUE	5/7/1999
+078	Ayodhya Mendis	200088900892	SE - Software Engineering	2.94	Kegalle	TRUE	11/5/2000
+083	Bhanuka Maduwantha	199333400338	LAW	3.44	Galle	TRUE	1/9/1993
+033	Bhanuka Rajapaksa	199133400333	BM - Business Management	3.58	Galle	TRUE	7/17/1991
+085	Binura Fernando	199755600560	ENG - Engineering	3.24	Matara	TRUE	6/29/1997
+148	Chamali Bandara	200088900899	BM - Business Management	3.59	Kegalle	TRUE	1/31/2000
+002	Chamari Atapattu Silva	199965400890	BM - Business Management	3.20	Kurunegala	FALSE	9/12/1999
+079	Chamika Gunasekara	199299000993	LAW	3.74	Jaffna	TRUE	12/31/1992
+050	Chamika Karunaratne	200400100011	SE - Software Engineering	3.17	Badulla	TRUE	5/16/2004
+039	Chaminda Vaas	199299000999	LAW	3.75	Jaffna	TRUE	3/10/1992
+116	Chamodya Fernando	200266700674	BM - Business Management	3.19	Kurunegala	TRUE	4/6/2002
+111	Charith Asalanka	199811200119	LAW	3.56	Colombo	TRUE	1/3/1998
+155	Charith Senanayake	199755600567	LAW	3.20	Matara	TRUE	9/6/1997
+151	Chathuranga de Silva	199811200123	LAW	3.55	Colombo	TRUE	5/18/1998
+092	Chathurika Dissanayake	200122300228	ENG - Engineering	3.01	Kandy	TRUE	5/23/2001
+087	Dasun Shanaka	199177800782	LAW	2.89	Kalutara	TRUE	8/3/1991
+074	Dewmi Vihanga	200344500448	SE - Software Engineering	3.34	Gampaha	TRUE	2/14/2003
+012	Dhananjaya de Silva	199587600211	LAW	3.25	Kandy	TRUE	10/5/1995
+141	Dhananjaya Lakshan	199911200122	ENG - Engineering	3.59	Colombo	TRUE	12/1/1999
+131	Dhanushka Gunathilaka	199811200121	LAW	3.53	Colombo	TRUE	3/26/1998
+103	Dilantha Malagamuwa	199333400340	LAW	3.41	Galle	TRUE	10/6/1993
+134	Dilini Perera	200344500454	SE - Software Engineering	3.33	Gampaha	TRUE	1/8/2003
+143	Dilruwan Lokuhettige	199333400344	LAW	3.49	Galle	TRUE	8/15/1993
+061	Dilruwan Perera	199911200114	ENG - Engineering	3.56	Colombo	TRUE	6/13/1999
+105	Dilshan Munaweera	199755600562	ENG - Engineering	3.21	Matara	TRUE	3/20/1997
+152	Dilshani Fernando	200122300234	ENG - Engineering	3.00	Kandy	TRUE	2/9/2001
+073	Dimuth Karunaratne	199133400337	ENG - Engineering	3.79	Galle	TRUE	9/19/1991
+017	Dinesh Chandimal	199923400766	ENG - Engineering	3.40	Kalutara	TRUE	5/8/1999
+099	Dinesh Cooray	199299000995	LAW	3.71	Jaffna	TRUE	4/3/1992
+004	Dulani Lakshani Fernando	200087600321	SE - Software Engineering	3.92	Gampaha	TRUE	11/18/2000
+027	Dushmantha Chameera	199277800776	SE - Software Engineering	3.30	Kalutara	TRUE	9/2/1992
+110	Gayani Kaushalya	200400100017	SE - Software Engineering	3.16	Badulla	TRUE	4/1/2004
+070	Hansani Liyanage	200400100013	SE - Software Engineering	3.21	Badulla	TRUE	3/8/2004
+024	Harshitha Samarawickrama	200344500443	LAW	3.50	Gampaha	TRUE	1/11/2003
+106	Hashini Perera	200266700673	SE - Software Engineering	3.66	Kurunegala	TRUE	9/14/2002
+016	Hasini Madushika	200210100655	LAW	3.70	Kurunegala	TRUE	3/17/2002
+128	Hiruni Bandara	200088900897	BM - Business Management	3.53	Kegalle	TRUE	7/13/2000
+154	Hiruni Kaushalya	200344500456	SE - Software Engineering	3.80	Gampaha	TRUE	6/12/2003
+058	Hiruni Sarangi	200088900890	SE - Software Engineering	2.96	Kegalle	TRUE	2/1/2000
+040	Imalka Mendis	200400100010	LAW	3.38	Badulla	TRUE	10/27/2004
+026	Inoka Ranaweera	200266700665	ENG - Engineering	3.08	Kurunegala	TRUE	12/16/2002
+008	Ishani Lokusuriya	200277800112	SE - Software Engineering	2.90	Kegalle	TRUE	1/20/2002
+062	Ishara Maduwanthi	200122300225	SE - Software Engineering	3.11	Kandy	TRUE	12/8/2001
+065	Isuru Udana	199755600558	ENG - Engineering	3.26	Matara	TRUE	1/18/1997
+036	Janadi Anali	200266700666	LAW	3.18	Kurunegala	TRUE	5/1/2002
+064	Janani Sarathchandra	200344500447	BM - Business Management	3.86	Gampaha	TRUE	6/25/2003
+149	Janith Liyanage	199299001000	ENG - Engineering	3.99	Jaffna	FALSE	9/8/1992
+115	Jeffrey Abeygunawardena	199555600563	LAW	3.89	Matara	TRUE	10/21/1995
+041	Jeffrey Vandersay	199911200112	ENG - Engineering	3.52	Colombo	TRUE	1/23/1999
+097	Jehan Mubarak	199077800783	ENG - Engineering	3.61	Kalutara	TRUE	2/15/1990
+089	Kamindu Mendis	199299000994	ENG - Engineering	3.94	Jaffna	TRUE	10/24/1992
+153	Kamindu Vithanage	199333400345	BM - Business Management	3.40	Galle	FALSE	11/27/1993
+045	Kasun Madushanka	199755600556	ENG - Engineering	3.22	Matara	TRUE	2/5/1997
+003	Kasun Rajitha Kumara	200109800456	ENG - Engineering	2.75	Matara	TRUE	3/1/2001
+094	Kaushalya Kumari	200344500450	SE - Software Engineering	3.31	Gampaha	TRUE	9/4/2003
+130	Kaushalya Madushani	200400100019	SE - Software Engineering	3.13	Badulla	TRUE	6/9/2004
+046	Kaveesha Kumari	200266700667	SE - Software Engineering	3.67	Kurunegala	TRUE	7/26/2002
+013	Kavisha Dilhari	200312300322	ENG - Engineering	3.80	Galle	TRUE	6/22/2003
+053	Kusal Janith Perera	199133400335	ENG - Engineering	3.77	Galle	TRUE	11/22/1991
+014	Kusal Mendis Perera	200045600433	BM - Business Management	2.95	Gampaha	FALSE	1/15/2000
+077	Kusal Perera	199077800781	ENG - Engineering	3.64	Kalutara	TRUE	3/2/1990
+025	Lahiru Kumara	199655600554	BM - Business Management	3.72	Matara	TRUE	5/30/1996
+093	Lahiru Madushanka	199133400339	BM - Business Management	3.78	Galle	TRUE	12/18/1991
+117	Lahiru Milantha	199077800785	ENG - Engineering	3.69	Kalutara	TRUE	11/8/1990
+159	Lahiru Sandakan	199299001001	LAW	3.90	Jaffna	TRUE	5/1/1992
+067	Lahiru Thirimanne	199177800780	LAW	2.91	Kalutara	TRUE	3/6/1991
+145	Lakshan Sandakan	199755600566	ENG - Engineering	3.29	Matara	TRUE	4/10/1997
+019	Lasith Malinga	199367800988	SE - Software Engineering	3.90	Jaffna	TRUE	8/20/1993
+048	Madavi Samarasinghe	200088900889	BM - Business Management	3.47	Kegalle	TRUE	9/7/2000
+112	Madhavi Liyanage	200122300230	BM - Business Management	3.09	Kandy	TRUE	8/17/2001
+072	Madhushika Wijeratne	200122300226	BM - Business Management	3.04	Kandy	TRUE	4/28/2001
+122	Madushi Priyadarshani	200122300231	SE - Software Engineering	3.08	Kandy	TRUE	11/20/2001
+069	Maheesh Theekshana	199299000992	ENG - Engineering	3.96	Jaffna	TRUE	5/11/1992
+007	Mahela Jayawardene Bandara	200122100554	ENG - Engineering	3.60	Kalutara	TRUE	8/14/2001
+135	Mahela Udawatte	199555600565	LAW	3.83	Matara	TRUE	9/17/1995
+032	Malsha Shehani	200122300222	LAW	3.02	Kandy	TRUE	9/21/2001
+029	Muttiah Muralitharan	199099000998	BM - Business Management	3.95	Jaffna	TRUE	11/13/1990
+102	Nadeesha Dilrukshi	200122300229	SE - Software Engineering	3.06	Kandy	TRUE	1/25/2001
+076	Nethmi Poorna	200266700670	BM - Business Management	3.14	Kurunegala	TRUE	8/24/2002
+038	Nilakshi de Silva	200088900888	ENG - Engineering	2.98	Kegalle	TRUE	6/19/2000
+015	Niluka Karunaratne	199878900544	SE - Software Engineering	3.15	Matara	TRUE	9/28/1998
+124	Nilupa Kumari	200344500453	BM - Business Management	3.83	Gampaha	TRUE	12/15/2003
+127	Nipun Dananjaya	199177800786	LAW	2.93	Kalutara	TRUE	1/27/1991
+137	Nirantha Bandaratilleke	199077800787	ENG - Engineering	3.63	Kalutara	TRUE	9/29/1990
+150	Nirasha Perera	200400100021	SE - Software Engineering	3.19	Badulla	TRUE	10/14/2004
+139	Niroshan Bandaratilleke	199299000999	LAW	3.73	Jaffna	TRUE	8/13/1992
+021	Niroshan Dickwella	200011200110	BM - Business Management	3.65	Colombo	TRUE	10/14/2000
+095	Niroshan Perera	199555600561	LAW	3.81	Matara	TRUE	4/13/1995
+063	Nuwan Kulasekara	199333400336	LAW	3.46	Galle	TRUE	9/1/1993
+035	Nuwan Pradeep	199555600555	SE - Software Engineering	3.82	Matara	TRUE	12/4/1995
+010	Oshadi Ranasinghe	199744500223	BM - Business Management	3.78	Badulla	TRUE	12/19/1997
+086	Oshani Ranathunga	200266700671	SE - Software Engineering	3.69	Kurunegala	TRUE	1/21/2002
+091	Pathum Bandara	199811200117	LAW	3.59	Colombo	TRUE	6/11/1998
+001	Pathum Nissanka Perera	200214500123	SE - Software Engineering	3.85	Colombo	TRUE	5/25/2002
+129	Pathum Wijesinghe	199299000998	ENG - Engineering	3.93	Jaffna	TRUE	11/25/1992
+146	Piumi Shanika	200266700677	SE - Software Engineering	3.69	Kurunegala	TRUE	12/5/2002
+114	Piumi Wathsala	200344500452	SE - Software Engineering	3.39	Gampaha	TRUE	3/29/2003
+081	Ramesh Mendis	199911200116	ENG - Engineering	3.54	Colombo	TRUE	4/26/1999
+057	Rangana Herath	199077800779	ENG - Engineering	3.66	Kalutara	TRUE	5/14/1990
+140	Ranuli Fernando	200400100020	BM - Business Management	3.39	Badulla	TRUE	3/18/2004
+080	Rasanji Fernando	200400100014	BM - Business Management	3.37	Badulla	TRUE	7/7/2004
+051	Roshen Silva	199811200113	LAW	3.57	Colombo	TRUE	8/30/1998
+100	Ruwani Perera	200400100016	BM - Business Management	3.35	Badulla	TRUE	11/21/2004
+156	Ruwanthika Kumari	200266700678	ENG - Engineering	3.60	Kurunegala	TRUE	3/30/2002
+052	Sachini Kumari	200122300224	BM - Business Management	3.06	Kandy	TRUE	3/5/2001
+042	Sachini Nisansala	200122300223	SE - Software Engineering	3.07	Kandy	TRUE	10/15/2001
+066	Sachini Piyumali	200266700669	SE - Software Engineering	3.71	Kurunegala	TRUE	11/3/2002
+071	Sadeera Samarawickrama	199811200115	LAW	3.61	Colombo	TRUE	10/4/1998
+144	Saduni Hansika	200344500455	BM - Business Management	3.89	Gampaha	TRUE	5/19/2003
+147	Sajeewa Weerakoon	199177800788	LAW	2.99	Kalutara	TRUE	7/23/1991
+138	Samadhi Liyanage	200088900898	SE - Software Engineering	2.93	Kegalle	TRUE	4/4/2000
+049	Sanath Jayasuriya	199099000990	ENG - Engineering	3.98	Jaffna	TRUE	1/1/1990
+060	Sanduni Nisansala	200400100012	BM - Business Management	3.32	Badulla	TRUE	4/20/2004
+068	Senani Weerasinghe	200088900891	BM - Business Management	3.51	Kegalle	TRUE	10/23/2000
+160	Sewwandi Dilrukshi	200400100022	ENG - Engineering	3.30	Badulla	TRUE	12/25/2004
+084	Shani Fernando	200344500449	BM - Business Management	3.89	Gampaha	TRUE	10/17/2003
+020	Shashikala Siriwardene	199590100099	LAW	3.35	Badulla	TRUE	4/1/1995
+136	Shashini Gimhani	200266700676	BM - Business Management	3.13	Kurunegala	TRUE	7/4/2002
+101	Shehan Ambepitiya	199911200118	ENG - Engineering	3.51	Colombo	TRUE	7/9/1999
+043	Shehan Jayasuriya	199333400334	LAW	3.42	Galle	TRUE	6/8/1993
+125	Shevon Daniel	199755600564	ENG - Engineering	3.23	Matara	TRUE	8/2/1997
+120	Sithara Fernando	200400100018	BM - Business Management	3.33	Badulla	TRUE	9/2/2004
+088	Sithara Perera	200088900893	BM - Business Management	3.49	Kegalle	TRUE	3/16/2000
+018	Sugandika Kumari	200134500877	BM - Business Management	3.00	Kegalle	TRUE	11/25/2001
+055	Suranga Lakmal	199555600557	LAW	3.87	Matara	TRUE	3/27/1995
+030	Tharika Sewwandi	200400100009	ENG - Engineering	2.65	Badulla	TRUE	8/5/2004
+005	Tharindu Kaushal de Silva	200311200784	LAW	3.10	Galle	TRUE	4/7/2003
+104	Tharuka Lakshani	200344500451	BM - Business Management	3.86	Gampaha	TRUE	7/1/2003
+126	Tharushi Dilhara	200266700675	SE - Software Engineering	3.63	Kurunegala	TRUE	2/18/2002
+090	Tharushi Fernando	200400100015	SE - Software Engineering	3.19	Badulla	TRUE	1/5/2004
+054	Tharushi Kalpana	200344500446	SE - Software Engineering	3.36	Gampaha	TRUE	8/10/2003
+107	Thilan Samaraweera	199177800784	LAW	2.86	Kalutara	TRUE	5/16/1991
+157	Thilina Kandamby	199177800789	BM - Business Management	2.90	Kalutara	TRUE	10/10/1991
+059	Tillakaratne Dilshan	199299000991	LAW	3.76	Jaffna	TRUE	7/28/1992
+022	Udeshika Prabodhani	200122300221	ENG - Engineering	3.12	Kandy	TRUE	7/6/2001
+132	Upeksha Siriwardana	200122300232	BM - Business Management	3.03	Kandy	TRUE	10/2/2001
+037	Upul Tharanga	199077800777	BM - Business Management	3.62	Kalutara	TRUE	11/26/1990
+056	Vishaka Liyanage	200266700668	BM - Business Management	3.16	Kurunegala	TRUE	10/9/2002
+011	Vishmi Gunaratne	200451200100	SE - Software Engineering	3.55	Colombo	TRUE	2/10/2004
+075	Vishwa Fernando	199555600559	LAW	3.84	Matara	TRUE	7/10/1995
+009	Wanindu Hasaranga	200033400667	LAW	3.05	Jaffna	TRUE	6/3/2000
+142	Wasana Kumari	200122300233	SE - Software Engineering	3.04	Kandy	TRUE	6/26/2001
+108	Wasana Sarathchandra	200088900895	BM - Business Management	3.46	Kegalle	TRUE	12/9/2000
